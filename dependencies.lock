@@ -1,0 +1,57 @@
+dependencies:
+  espressif/button:
+    component_hash: 1f5297fe16f0ee988dbb14b6f4c91782fe2baf85025bb15cc1e0093edd3fb2ee
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 3.2.0
+  espressif/cmake_utilities:
+    component_hash: 351350613ceafba240b761b4ea991e0f231ac7a9f59a9ee901f751bddc0bb18f
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.5.3
+  espressif/ds18b20:
+    component_hash: d676429d9f1f686b65ed895e418eb4b331477bcd5d63c27f43dc3d6a2de8f13b
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.1.1
+  espressif/esp_modem:
+    component_hash: e48da33fee082dd9d9a97a354a228057e07a14ac108766b40ad84e018205410a
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.1.0
+  espressif/iot_bridge:
+    component_hash: 2c3ec6470cbff289ab982b4c23564483aab8d9f4cfa2c6420da6a94b1f709888
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.11.4
+  espressif/led_strip:
+    component_hash: 67d2744208e9c12d8b1992d21c979396c1726e57cb7e35e7c171c515be20f8ea
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 2.5.3
+  espressif/mesh_lite:
+    component_hash: 6ec6574151bada31b1a6d1af27ac188f2fbf876d5469f3901ec9da995d27dc20
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.10.3
+  espressif/onewire_bus:
+    component_hash: 4da8596055cfe301370c0bb2aa716e65dc3b7148e64f84bcc9f76693b3a32aa9
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.1
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.2
+manifest_hash: 553763fe5c85bcb5879af412ba271e5827332d5fada771d9f69385a75a390114
+target: esp32
+version: 1.0.0

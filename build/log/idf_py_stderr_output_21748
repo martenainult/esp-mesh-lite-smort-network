@@ -1,0 +1,6 @@
+warning: the int symbol BRIDGE_SOFTAP_MAX_CONNECT_NUMBER (defined at C:/Users/Marten/Documents/ESP/Test_projects/esp-mesh-lite/examples/no_router/managed_components/espressif__iot_bridge/Kconfig:90) has a non-int default BRIDGE_CUSTOM_MAX_CONNECT_NUMBER (undefined)
+warning: the value '4096 //' is invalid for ESP_TIMER_TASK_STACK_SIZE (defined at C:/Users/Marten/esp/esp-idf/components/esp_timer/Kconfig:21), which has type int -- assignment ignored
+Compiler supported targets: xtensa-esp32-elf
+
+error: patch failed: src/core/ipv4/ip4.c:332
+error: src/core/ipv4/ip4.c: patch does not apply
