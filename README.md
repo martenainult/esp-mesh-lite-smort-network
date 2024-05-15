@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project is done as a Informatics Bsc 
+This project is done as a Informatics Bsc thesis
 
 The no_router example code was configured to implement the following features
 - Use of built-in button on the boards and sending a message to the root node with every press
@@ -14,9 +14,12 @@ The no_router example code was configured to implement the following features
 - Broadcast messages upstream to root node for sending payloads to USB interface
 - Broadcasting messages coming from USB interface to all child nodes
 
+## Node.js application as a control panel
 
+[ESP32 mesh network control panel
+](https://github.com/martenainult/smort-panel)
 
-
+## Devices used
 The project was implemented and tested with the following boards:
 
 - Firebeetle 2 ESP32-E 4Mb : [Docs](https://wiki.dfrobot.com/FireBeetle_Board_ESP32_E_SKU_DFR0654)
